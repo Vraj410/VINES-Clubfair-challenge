@@ -7,6 +7,7 @@
 
 &nbsp;
 # Pre-requisites ✅
+- Make sure that you clone this repo into your own local IDE. I would recommend using VSCode. If you don't know how to clone follow this link https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 - Make sure you have npm installed https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 - Do NOT push to github. If you do then let me (Vraj) know and I will remove your commit. My email is vraj.shah@vanderbilt.edu
 - Before you run `npm install` make sure that you are in the correct directory. Change it with `cd spootify/`
